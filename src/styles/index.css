@@ -1,4 +1,22 @@
+.row{
+    background-color: rgb(7,7,7);
+    height: 110px;
+    
+}
 
+.col{
+    background-color: rgb(16,16,16);
+    height: 80px;
+    font-weight: 300;
+}
+
+/* .container{
+    margin-top: 1%;
+    margin-left: 2% ;
+    padding-right: 1%;
+    padding-left: 0%;
+   
+} */
 /* 
 
     You can write your own styles here...
